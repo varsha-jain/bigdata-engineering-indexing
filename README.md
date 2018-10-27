@@ -1,2 +1,4 @@
 # bigdata-engineering-indexing
-Redis, Java, Springboot
+CRUD APIs
+JSON Schema validation
+
